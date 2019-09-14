@@ -59,7 +59,7 @@ copyright:             © 2019. All rights reserved.
 #     href:              /cookies-policy/
 
 # Format of the permalinks
-permalink:             pretty
+permalink:             zyabc
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              5
@@ -225,7 +225,8 @@ plugins:
 # social:
 #   name:                <firstname> <lastname>
 #   links:
-#     - https://github.com/zyabc
+#     - https://twitter.com/<username>
+     - https://github.com/zyabc
 
 
 # Other Plugins
