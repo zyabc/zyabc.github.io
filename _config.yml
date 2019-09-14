@@ -226,7 +226,7 @@ plugins:
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-     - https://github.com/zyabc
+#     - https://github.com/<username>
 
 
 # Other Plugins
